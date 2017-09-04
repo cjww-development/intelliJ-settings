@@ -1,0 +1,6 @@
+<code_scheme name="Default">
+  <ScalaCodeStyleSettings>
+    <option name="TYPE_ANNOTATION_PUBLIC_MEMBER" value="false" />
+    <option name="TYPE_ANNOTATION_PROTECTED_MEMBER" value="false" />
+  </ScalaCodeStyleSettings>
+</code_scheme>
