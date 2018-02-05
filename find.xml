@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src/main/scala [testing-framework]'" />
-    <option name="defaultScopeName" value="Directory '.../src/main/scala [testing-framework]'" />
+    <option name="customScope" value="Directory '.../test [session-store]'" />
+    <option name="defaultScopeName" value="Directory '.../test [session-store]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src/main/scala [testing-framework]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../test [session-store]'" />
   </component>
 </application>
