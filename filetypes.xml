@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="abt" type="PLAIN_TEXT" />
+      <mapping ext="cy" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
